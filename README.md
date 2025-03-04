@@ -1,5 +1,5 @@
 
-# Internet Troubleshooting Support Agent
+# Internet Troubleshooting Support AI Agent
 
 A robust AI-powered agent to help users troubleshoot common internet connectivity issues.
 
